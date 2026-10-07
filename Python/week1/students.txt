@@ -1,0 +1,15 @@
+Aarav,87
+Diya,92
+Rohan,76
+Ananya,95
+Vikram,81
+Meera,89
+Arjun,73
+Ishita,96
+Kabir,84
+Nisha,78
+Aditya,91
+Sneha,88
+Rahul,69
+Priya,94
+Karan,82
